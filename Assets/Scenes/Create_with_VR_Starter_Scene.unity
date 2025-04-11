@@ -8747,7 +8747,7 @@ MonoBehaviour:
   chairController: {fileID: 0}
   liftChairTriggerName: 
   reparentDelay: 0
-  statisticsManager: {fileID: 0}
+  statisticsManager: {fileID: 2022705275}
 --- !u!114 &649206359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20971,7 +20971,7 @@ MonoBehaviour:
   colorOtro: {r: 0, g: 1, b: 0, a: 1}
   animationDelay: 10
   microaggressionEndAudio: {fileID: 8300000, guid: 6b559c0f2b309824f9b1452c308099d1, type: 3}
-  statisticsManager: {fileID: 0}
+  statisticsManager: {fileID: 2022705275}
 --- !u!114 &1535902592
 MonoBehaviour:
   m_ObjectHideFlags: 0
